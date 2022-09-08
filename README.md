@@ -1,5 +1,5 @@
 # Springboard-Capstone_project-imbalanced-classification
-<h2>This project will get the dataset from https://www.kaggle.com/c/predict-west-nile-virus
+<h2>This project will get the dataset from https://www.kaggle.com/c/predict-west-nile-virus<h2>
 <p>
 West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
 
